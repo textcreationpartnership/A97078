@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter desiring a just and mercifull regard of the Roman Catholicks of Ireland, given about the end of October 1660, to the then Marquess, now Duke of Ormond and the second time Lord Lieutenant of that kingdom.</title>
+            <author>Walsh, Peter, 1618?-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97078</idno>
+            <idno type="STC">Wing W635A</idno>
+            <idno type="STC">ESTC R23908</idno>
+            <idno type="EEBO-CITATION">07921655</idno>
+            <idno type="OCLC">ocm 07921655</idno>
+            <idno type="VID">172401</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172401)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1219:5 or 2628:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter desiring a just and mercifull regard of the Roman Catholicks of Ireland, given about the end of October 1660, to the then Marquess, now Duke of Ormond and the second time Lord Lieutenant of that kingdom.</title>
+                  <author>Walsh, Peter, 1618?-1688.</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Dublin? :</pubPlace>
+                  <date>1662?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter signed: P.W.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Item at 1219:5 incorrectly identified on film as Wing W636.</note>
+                  <note>Imperfect: item at 1219:5 in a tightly bound volume with some loss of text; item at 2628:23 folded with some loss of text.</note>
+                  <note>Item at 1219:5 is a reproduction of original in the Bodleian Library.</note>
+                  <note>Item at 2628:23 is a reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  Ireland.</term>
+               <term>Ireland --  History --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:172401:1"/>
+            <head>A Letter deſiring a juſt and mercifull regard of the Roman Catholicks of <hi>Ireland,</hi> given about the end of <hi>October 1660.</hi> to the then Marque<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1+ words">
+                  <desc>〈◊…〉</desc>
+               </gap> Duke of <hi>Ormond,</hi> and the ſecond time Lord Lieutenant of that Kingdom.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>SInce I had the honour of ſpeaking laſt to your Excellence, I reflected (by occaſion of ſeveral Diſcourſes had this week with Perſons of quality) on the dayly encreaſe of the Fears and jealouſies of my Country-men: Which is the Reaſon, That inſtead of waiting on you this morning about private Concernments, (as I in<g ref="char:EOLhyphen"/>tended) I choſe rather out of my unalterable affection to your ſelf, to give firſt this Paper, and therein my thoughts and my deſires relating to the Publick, that is, to your ſelf, and to His Majeſty, and his Kingdom of <hi>Ireland.</hi>
+            </p>
+            <p>My Lord, I thought fit to tell you, That conſidering the general fear ſeiz'd already almoſt on all the Nobility, Gentry, and others here of that Nation, and reflecting on the vaſt difference betwixt my own belief and theirs, it ſeems to me, I behold (in us particularly, who have for ſo many years ſo much relied on your word and vertue) ſomewhat fulfilled, not unlike the myſterious extinction of all the Lights to one in the Ceremony of <hi>Tenebrae</hi> in holy week. For, my Lord, I obſerve in the generality of the Catholicks of <hi>Ireland</hi> here, even (I ſay) of thoſe who have been ſo long as well your conſtant believers as your paſſionate ſticklers, a dimneſſe and darkneſſe ſeizing their judgements; even your faſteſt friends heretofore, loſing at preſent their faith of your future appearance for them, and hopes of their delivery by you at any time evermore: Some through ignorance of State affairs, and intrigues obſtructing as yet: others through inconſideration of thoſe wayes you take much wiſer, though ſlower, than folly and raſhneſſe could chalk out: and ſome out of prejudice or an evil paſſion, which blinds them and makes them abuſe the timorouſneſſe and cre<g ref="char:EOLhyphen"/>dulity of all they can, to leſſen your eſteem and your dependencies, all they are able.</p>
+            <p>My Lord, theſe are thoughts, which more and more trouble me dayly: becauſe I have dayly new occaſions to reflection them. And therefore would no longer but give them your Excellence, even in this method and in writing, that they might take the deeper impreſſion; as very much concerning you, ſince your own welfare, and the Kings and Peoples (in my judgment) very much depends on a good eſteem of ſo great a Miniſter, as your great deſerts have made you.</p>
+            <p>But withall, My Lord, I will give your Excellence my moſt earneſt, and moſt humble deſires that you delay no longer than ſhall be neceſſary, to clear theſe clouds of dark<g ref="char:EOLhyphen"/>neſſe: and clear them in this preſent conjuncture, by an effectuall demonſtration of that juſtice and favour you intended the Catholicks of <hi>Ireland</hi> in your Articles of 48. when they ſo freely put themſelves and their power into your hands. I am not ignorant that ſome have after tranſgreſſed in a high nature. But you know, my Lord, there are many thouſands of Proteſtants in the three Kingdomes, who have been far more hainouſly criminal, both againſt his Majeſty and againſt his Father, of bleſſed memorie, and who have contributed, or intended as little for bringing home his Majeſty, as the moſt wickedly principled of he Roman Confederates of <hi>Ireland.</hi> And we all know (my Lord) that all the Proteſtants are not only pardoned (except a very few of the moſt immediate Regicides) but equalled in all capacities with his Majeſty's moſt faithfull and approved ſubjects. Yet if theſe unfortunate Catholick tranſgreſſors muſt be alone, in this generall <hi>Jublie</hi> of the three Nations, held unworthy to rejoyce in the Kings reſtauration; if they alone, beſides their moſt grievous and moſt unparallel'd ſufferings under tyranny theſe eight or nine years paſt, muſt a-new ſuffer, and yet a more heavy judgment, under the moſt clement Prince on earth; if they alone muſt experience all the rigour of his law and judicatures for their offences after the Peace of 48. (which offences however criminal were not bloudy) your Excellence may be nevertheleſſe pleaſed to conſider the Tranſplantation cannot be continued on any ſuch account, nor on any other which may ſtand either with thoſe Articles, or with the equity of the Laws, and ſuch leſſe with the juſtice of a Prince whom God hath reſtored to redeem the oppreſſed from the yoak of tyranny, <hi>to lead captivity captive, and give gifts to men.</hi> And yur Excellence may be further pleaſed to conſider That the Corporations generally cannot be excluded on this account, nor on any other may ſtand with his Majeſty's gacious conceſſions in theſe Articles. Neither do I think there can be any reaſons of State may accord with the dictates of a good conſcience to exclude them. I confeſſe, my Lord, the undutifulneſſe of ſome, two or three peradventure, deſerved puniſhment, and <hi>Limerick</hi> a ſevere one. But this, my Lord, is long ſince inflicted by the hand of God and man. The plague and famine, the ſword and gibbet, even by the power of tyrants deſtroyed them, and reveng'd your quarrel; though, I am ſure, you aſmore divinely principled than to mind your own revenge on any. Beſides, my Lord, your Excellence knows th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re have been very many faithfull ſubjects in theſe town seven in the moſt criminal of them.</p>
+            <p>My Lord, you are more juſt than to involve the juſt in the puniſhment of the wicked. God himſelf, whoſe power cannot be limited by Laws, would not puniſh the juſt, not even when he was moſt incenſed by the moſt criminal Cityes that ever ſtood on earth. He aſſured the Prophet <hi>Jemy,</hi> That could he find but one juſt man in all <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> (when moſt ſinfull and reprobate, and by his revenging juſtice deſign'd for a generall deſolation) he would ſine out that man from the wicked and ſave <hi>him</hi> (for to our tranſlation reads) nay, for his ſake be mercifull to the whole City (if your Tranſlation be right.) When the ding ſins of <hi>Sodom</hi> and <hi>Gomorrha</hi> forc'd open the flood-gates of heaven to power down thoſe prodigious flames of fire and brimſtone, we read in <hi>Geneſis,</hi> yet would <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he juſtice of God permit execution, before he had put in a place of ſafety one juſt man that was found in <hi>Sodom</hi> And, which is yet more obſervable, was further pleaſed aſſure <hi>Abraham,</hi> That he was ſo far from intending to involve the juſt in the deſtruction of the wicked, That if in theſe great places deſign'd for ſo great vengeance, he <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> men, he would <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> pardon all the reſt, that is, not <hi>Sodom</hi> alone, but the five Cityes, and the whole Pentapolitane region annexed. My Lord, our gracious King hath in imitation of this mercy of God, Pardon'd for ſome juſt mens ſake all the Proteſtant Cities of his Dominions. And will He not pardon the miſerable remainders of one poor Catholick Town? or two? or three at moſt? if perhaps there be ſo many that have any way offended. I am ſure, whatever th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r offence hath been, it hath been theſe many years paſt ſufficiently puniſhed: and hath been, even of the moſt criminal, incomparably leſs than what may be charged o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moſt of all his Majeſty's Proteſtant Cityes. And I am ſure there have been in the very worſt of them, and in the moſt diſobedient more than fifty (the greateſt numbe <hi>Abraham</hi> propoſed for mercy to <hi>Sodom)</hi> juſt men (I ſay) to his Majeſty, and your Excellence; then which you take no further cognizance of juſtice in this particula And what beſides, may render them unfit objects of the generall mercy, if not perhaps their Religion? Which nevertheleſs, being ſo Chriſtian, and allowed by Articles an be no exception. Yet, it notwithſtanding all this, the few and miſerable Survivors and Heirs of the dead in the generall deſolation, muſt ſuffer again, and under is royal juſtice: I beſeech you (my Lord) Let not the tables of <hi>Sylla</hi> and <hi>Marius,</hi> Let not their generall proſcriptions or confiſcations be renewed on this occaſion, or aixed in the Courts and Judicatures of the Brittiſh Monarchy. Let not theſe bright dayes of univerſal joy, be rendred to the Iriſh Catholicks alone dark, ſad, and diſtal. Nor let theſe dayes be infamouſly memorable to poſterity for a diſtinction ſo unequal. Even the greateſt and worſt of Delinquents, amongſt the Catholicks of <hi>Irelnd,</hi> even of thoſe very Corporations or Cityes, that have been moſt refractory, were ſo far from being Regicides, or any way inclined unto them, (and only ſuch, ad but very few of ſuch, becauſe only ſome of the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> have fought againſt them even to deſpair: and fought againſt them
+<pb facs="tcp:172401:2"/>
+that have been moſt refractory, were ſo far from being Regicides, or any way inclined unto them, (and only ſuch, ad but very few or ſuch, became <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> moſt immediate actors, have been hitherto thought fit to be excluded a ſhare in this joy) that they have fought againſt them even to deſpair: and fought againſt them when <hi>England</hi> and <hi>Scotland,</hi> and the Proteſtants of <hi>Ireland,</hi> wholly deſerted the Royal cauſe: and fought againſt then as well in defence of his Majeſty's rights, as under the title of his ſubjects; till at laſt by long ſieges, and multitudes over powred, and through Gods unſearchable judgments, and their deſertion by friends abroad, and home-diviſions they loſt themſelves and their Countrey.</p>
+            <p>Nevertheleſs, my Lord, far be it from my thoughts to deſire the obſtruction of any lawfull and honeſt courſe may e juſtly taken to ſecure the peace of that Countrey from rational dangers; if any ſuch can be in our dayes from the Catholick Natives. What I humbly beg is, That if neſe Catholicks muſt be alwayes ſo unfortunate as to be thought unworthy his Majeſtly's graces and favours to Proteſtants that fought againſt him, when they fought fo him, or of ſuch as he vouchſafes; even Presbyters, Anabaptiſts, Quakers, Fift-monarchy-men, Independents (the greateſt enemies to regal power in ſome tenets, whrein the Roman Catholicks are the ſureſt friends) his Majeſty may be at leaſt graciouſly pleaſed to let them have the benefit of his Conceſſions articled with them: Ad what I beg, my Lord, is That his Majeſty not ſo much regard the power of our Adverſaryes as the juſtice of our cauſe. My Lord, their power is no greater at this tim, than his Majeſty is pleaſed to continue or make it. There is a huge difference betwixt their influence on the meaner Officers and common Souldiers now, and that it wain the time of the Long Parliament, or in the dayes of tyranny and anarchy. In a word it will ſignifie a meer nothing, if once uncommiſſioned by his Majeſty, and the ommon Souldiers payed.</p>
+            <p>However, my Lord, their power cannot be ſo dangerous, as their un juſt demands of byaſſed intereſt and pretended zeal, if complyed withall by his Majeſty, and by a breach ſo notorious and ſo great of our Articles. For, beſides that ſuch proceedings would, in all probability, eſtrange the hearts of the Iriſh Catholicks from his Majeſty, and by a conſequence of reaſon (how ſtrange ſoever this may appear at firſt ſight) kindle and raiſe in all judicious Priteſtants who have ever fought in any of his Domini<g ref="char:EOLhyphen"/>ons, either againſt himſelf, or againſt his Father, even in the very Demanders (how much ſoever blinded at preſent by proper intereſt) perpetual jealouſies, and diſtruſts of their own ſafty, notwithſtanding any Declaration from <hi>Breda,</hi> or Acts of Weſtminiſter paſs'd in this preſent Parliament: they would (which is moſt of all to be feared as the worſt of evils, and may Providence divert it in obſtructing the cauſe) turn the heart of God from our good Prince, and bring his judgments on him. My Lord, never or ſcarce ever did publick breach of publick faith eſcape very publick and very dreadfull judgments, even in this world, I mean. Hiſtories profane and ſacred are full of ſad examples of both kinds. And for the peoples breach, our Iriſh Nation theſe fourteen years paſt ſo wonderfully ſcourged beyond almoſt all example, for their breach of their firſt articles, thoſe of fourty ſix, with you (my Lord) will be recorded in after ages as one of the ſaddeſt. But for a Princes tranſgreſſion of this nature, and judg ments following, even ſuch as are in fallibly known to have been for this only cauſe inflicted, and by God's own immediate execution for the greateſt part, and th reſt by his good will and pleaſure, that of the 21. of the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Samuel</hi> is pertinent and formidable. The very firſt of faithfull Kings, elected by Gods immediate ordi<g ref="char:EOLhyphen"/>nance, anointed by God's immediate commandment, appointed by him Ruler of his peculiar people and Champion on earth of his Church againſt Infidels; even this be<g ref="char:EOLhyphen"/>loved of God for a time, this dear darling of Heaven for ſome years, no ſooner attempted againſt Articles, on the poor <hi>Gibeonites,</hi> and their four Cityes, but thoſe moſt fearfull and Exemplar judgments, recorded by <hi>Samuel,</hi> were decreed againſt him, and, for this very fact alone, againſt his poſterity, and againſt the whole King<g ref="char:EOLhyphen"/>dome of <hi>Iſrael.</hi> Neither could all the miſeries of his own life after, nor the ignominy of his own death, and of the beſt of his children, which followed very ſoon, nor the army of God periſhing with him by the ſwords of Idolaters, exprate this publick breach of publick Articles. Not although they were his own Subjects with whom he broke, and not Subjects only, but ſlaves born, and by covenant; nor ſlaves alone, but Amorites, whoſe Towns and Lands, and fortunes had been the free gift of God to the Children of <hi>Iſrael,</hi> in his promiſe to <hi>Abraham</hi> 700 years before, and long after appropriated the ſecond time unto them by the Law of <hi>Moſes,</hi> and by his particular command for extirpation of the ancient Inhabitants, and of the Amorites by name, and for never entring any League or Peace or Covenant with them. Not although theſe <hi>Gibeonites,</hi> when they articled by their Predeceſſors, were Inſidels, enemies of one true God, and their articles made with true believers, and believers infallibly ſuch, and not with <hi>Saul,</hi> but with <hi>Joſue,</hi> 300 years before the Raign of <hi>Saul,</hi> and never by him ratified. Nor although, what is more obſervable, theſe articles were ob<g ref="char:EOLhyphen"/>tained of <hi>Joſhua</hi> through his ignorance of the people that treated with him, and by their lyes and circumvention of him. Nor finally, although theſe Articles were aſſented unto by <hi>Joſhua</hi> only, and his twelve chief Captains; the whole multitude (concern'd in this buſineſs) not conſenting otherwiſe; as appeared within three dayes after the Concluſion, by their generall murmur againſt the Prince. My Lord, none of all theſe extenuating circumſtances, nor altogether, not even back't with zeal for the people of God (the Scripture noting particularly that <hi>Saul ſought to ſlay the Gibeonites in his Zeal to the Children of Iſrael and Judah)</hi> no excuſe, no pretence what<g ref="char:EOLhyphen"/>ſoever could obtayn ſo much mercy of the great Juſticier of Heaven, as to inflict the puniſhment of this article-breaking on the perſon of <hi>Saul</hi> alone; not even together with his beloved <hi>Jonathan's,</hi> or on his Legions, and People in his own dayes only. The vengeance of God muſt purſue his Poſterity and Kingdome, long after his death, and for this cauſe alone. A mortal Famine of three years continuance muſt conſume the twelve Tribes of <hi>Iſrael,</hi> even in the reign of his Succeſſor; and for this very Sin only, as God himſelf revealed to holy <hi>David.</hi> Nor would the Famine ceaſe, till by <hi>David</hi>'s commandment ſeven of <hi>Saul</hi>'s Children and Nephews were delivered to the <hi>Gibeonites;</hi> and by the hands of theſe very men whoſe Articles he broke, cruciſied alive upon a Mountain, to expiate this publick and horrid ſin, even in the face of the Sun. May Providence, and the Kings Righteouſneſs, and your ſage Counſel (my Lord) obſtruct all occaſions of reflecting on this (and ſo many other examples of God's revenge of Article-breaking) any further than that the beſt of Kings may ſee the worſt of evils attending the Counſels of our Adverſaries: and that their power, what<g ref="char:EOLhyphen"/>ever it be, cannot be ſo dangerous as their demands againſt our Articles.</p>
+            <p>My Lord, I conclude here, but with my hearty wiſhes, That in the Houſe, and at the Counccls of our great King, your Excellence may both appear and approve your ſelf hereafter what you are in part already, another <hi>Joſeph.</hi> That by the beſt of Advices you may preſerve the beſt of Princes, and all his people of ſo many dif<g ref="char:EOLhyphen"/>ferent Nations of the Brittiſh Monarchy. May it be ſo, my Lord! And may the Catholicks of <hi>Ireland</hi> in particular owe you a great Deliverance! as I cannot but confi<g ref="char:EOLhyphen"/>dently expect from you in due time; for my light in the triangle cannot be extinguiſhed. But (my Lord) may not innocent beloved <hi>Benjamin</hi> alone, nor friendly <hi>Reuben</hi> only, but even <hi>Simeon</hi> and <hi>Levi,</hi> and their Complices againſt you heretofore, have cauſe to bleſs God for you hereafter. May they all finde in effect, that you have the bowels of <hi>Joſeph,</hi> to forgive and compaſſionate them, and his power to deliver them, and his faith to believe. That God permitted their evil againſt you, even in forcing you twice away from them, of purpoſe to preſerve you for their good; and that you might return, even this ſecond time, their great Deliverer. Propitious Heaven, and your own good <hi>Genius,</hi> my Lord, ſecond my wiſhes! And may your faithfull Believer ſee with his own eyes the full accompliſhment! that he may employ all his dayes after, and all his Labours in conſecrating to Poſterity your Name, with this <hi>Eloginm</hi> of <hi>Joſeph, The Saviour of his Brethren, and of his Countrey, and of all the people.</hi> And theſe are the hearty wiſhes of</p>
+            <closer>
+               <salute>(My Lord)</salute> 
+               <signed>Your Excellency's moſt humble, moſt obſequious, and moſt devoted Servant,
+P. W.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
